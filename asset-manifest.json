@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quoter/static/css/main.478edfa9.css",
+    "main.js": "/Quoter/static/js/main.b7b97963.js",
+    "static/js/787.a5bfa875.chunk.js": "/Quoter/static/js/787.a5bfa875.chunk.js",
+    "index.html": "/Quoter/index.html",
+    "main.478edfa9.css.map": "/Quoter/static/css/main.478edfa9.css.map",
+    "main.b7b97963.js.map": "/Quoter/static/js/main.b7b97963.js.map",
+    "787.a5bfa875.chunk.js.map": "/Quoter/static/js/787.a5bfa875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478edfa9.css",
+    "static/js/main.b7b97963.js"
+  ]
+}
