@@ -26,9 +26,10 @@ function App() {
           <h1 id="text">"{Quote}"</h1>
           <p id="author">-{author}</p>
           <a href={encodeURI(`http://www.twitter.com/intent/tweet?text=${Quote}`)}id="tweet-quote"> <i style={{color:color[0]}} class="fa fa-twitter"></i></a>
-          <button id="new-quote" onClick={()=>randomgenerate()} style={{background: `radial-gradient(${color[0]},${color[1]})`}}>Generate</button>
-          
+          <button id="new-quote" onClick={()=>randomgenerate()} style={{backgroundColor:color[1]}}>Generate</button>
+          <p  id="din"><a href="https://www.linkedin.com/in/lakshmi-narayana-malineni-9815451ba">by <u>Nani</u></a></p>
         </div>
+
         
       </header>
     </div>
